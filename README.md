@@ -1,7 +1,7 @@
 # Kickstarting with Excel
 
 ## Overview of Project
-The purpose of this project is to analyze the relationships between the success of theater capaigns relative to their launch date and the effect funding goals have on the success of plays using the data provided in our Kickstarter speadsheet. This will give our client the information she needs to decide when to launch her campaign and how to set up her goals.
+The purpose of this project is to analyze the relationships between the success of theater capaigns relative to their launch date and the effect funding goals have on the success of plays using the data provided in our Kickstarter speadsheet. This will give our client the information she needs to decide when to launch her campaign and which goals to aim for.
 ### Purpose
 
 ## Analysis and Challenges
